@@ -1,0 +1,45 @@
+.begin{
+    background-color: #001025;
+}
+
+.red{
+    margin-top: 50px;
+}
+
+button{
+    width: 30%;
+}
+
+.fw{
+    float: left;
+    border-right: 2px solid black;  
+}
+
+.small-b{
+    width: 5%;
+}
+
+.vertical, p{
+    text-align: center;
+}
+
+
+form{
+    width: 35%;
+    margin-left: 32.5%;
+    margin-top: 25px;
+    color: #ffffff;
+}
+
+.submit{
+    width: 100%;
+}
+
+#inputEmail{
+    background-color: #001025;
+    color: #ffffff;
+}
+
+#emailHelp{
+    float: right;
+}
